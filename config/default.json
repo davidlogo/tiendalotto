@@ -1,0 +1,33 @@
+{
+  "shop": {
+    "language": "es",
+    "currency": "COP",
+    "themeConfig": {
+      "title": "Jeans Bogotá",
+      "logo": {
+        "src": "https://raw.githubusercontent.com/davidlogo/jeansbogota-style-shop/main/logo1t.png",
+        "alt": "Mi tienda",
+        "width": "64px",
+        "height": "64px"
+      },
+      "headTags": {
+        "links": [
+          {
+            "rel": "icon",
+            "href": "/favicon.ico"
+          }
+        ]
+      }
+    }
+  },
+  "system": {
+    "extensions": [
+      {
+        "name": "sample",
+        "resolve": "extensions/sample",
+        "enabled": false
+      }
+    ],
+    "theme": "sample"
+  }
+}
