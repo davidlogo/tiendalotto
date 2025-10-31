@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "@evershop/evershop": "^2.0.1",
-    "evershop": "^1.0.0-beta"
+    "evershop": "^1.0.0-beta",
+    "patch-package": "^8.0.1",
+    "postinstall-postinstall": "^2.1.0"
   },
   "devDependencies": {
     "@parcel/watcher": "2.5.1",
